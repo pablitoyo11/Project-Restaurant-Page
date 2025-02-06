@@ -1,2 +1,1 @@
-# Project-Restaurant-Page
-Odin
+# Is this a template?
